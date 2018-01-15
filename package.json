@@ -1,17 +1,17 @@
 {
   "name": "web-starter-kit",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Template for starting to build modern websites.",
-  "author": "amazingSurge <amazingSurge@gmail.com>",
-  "homepage": "https://github.com/amazingSurge/web-starter-kit",
+  "author": "Creation Studio Limited. <thecreation@gmail.com>",
+  "homepage": "https://github.com/thecreation/web-starter-kit",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/amazingSurge/web-starter-kit"
+    "url": "https://github.com/thecreation/web-starter-kit"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/amazingSurge/web-starter-kit/issues"
+    "url": "https://github.com/thecreation/web-starter-kit/issues"
   },
   "scripts": {
     "start": "gulp",
@@ -36,7 +36,7 @@
   "devDependencies": {
     "argv": "^0.0.2",
     "assets-manager": "^0.3.8",
-    "autoprefixer": "^7.2.4",
+    "autoprefixer": "^7.2.5",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
     "babel-eslint": "^8.2.1",
@@ -76,7 +76,7 @@
     "gulp-imagemin": "^4.1.0",
     "gulp-include": "^2.3.1",
     "gulp-memory-cache": "^0.3.0",
-    "gulp-notify": "^3.1.0",
+    "gulp-notify": "^3.2.0",
     "gulp-plugin-prettier": "^1.1.0",
     "gulp-plumber": "^1.2.0",
     "gulp-postcss": "^7.0.1",
@@ -105,15 +105,15 @@
     "imagemin-svgo": "^6.0.0",
     "imagemin-webp": "^4.1.0",
     "lint-staged": "^6.0.0",
-    "node-notifier": "^5.1.2",
+    "node-notifier": "^5.2.1",
     "postcss-csso": "^3.0.0",
     "postcss-reporter": "^5.0.0",
     "postcss-scss": "^1.0.3",
-    "prettier": "^1.10.1",
+    "prettier": "^1.10.2",
     "require-dir": "^0.3.2",
-    "rollup": "^0.53.4",
+    "rollup": "^0.54.0",
     "rollup-plugin-commonjs": "^8.2.6",
-    "rollup-plugin-node-resolve": "^3.0.1",
+    "rollup-plugin-node-resolve": "^3.0.2",
     "stringify-attributes": "^1.0.0",
     "stylelint": "^8.4.0",
     "stylelint-config-prettier": "^2.0.0",
@@ -121,7 +121,7 @@
     "stylelint-config-standard": "^18.0.0",
     "stylelint-order": "^0.8.0",
     "stylelint-scss": "^2.2.0",
-    "uglify-js": "^3.3.5",
+    "uglify-js": "^3.3.7",
     "vinyl-named": "^1.1.0",
     "webpack": "^3.10.0",
     "webpack-bundle-analyzer": "^2.9.2",
